@@ -27,3 +27,5 @@
   <code><img title="Git" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/git-original.svg"></code>
   <code><img title="VSCode" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/vscode.png"></code>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najmulmyself)]
