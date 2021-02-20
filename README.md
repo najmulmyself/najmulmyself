@@ -13,6 +13,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=najmulmyself&label=Profile%20views&color=0e75b6&style=flat" alt="najmulmyself" /> </p>
 <hr>
 
+<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najmulmyself) </p>
+
 <h3 align="center">Languages & Frameworks & Tools</h3>
 
 <p align="center">
@@ -28,4 +30,3 @@
   <code><img title="VSCode" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/vscode.png"></code>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najmulmyself)]
