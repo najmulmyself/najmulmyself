@@ -10,7 +10,7 @@
   <code><a href="https://linkedin.com/in/najmulmyself" target="blank" title="LinkedIn Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
-![Profile views](https://gpvc.arturio.dev/najmulmyself )  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=najmulmyself&label=Profile%20views&color=0e75b6&style=flat" alt="najmulmyself" /> </p>
 <hr>
 
 <h3 align="center">Languages & Frameworks & Tools</h3>
