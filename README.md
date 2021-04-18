@@ -29,6 +29,6 @@
   <code><img title="Git" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/git-original.svg"></code>
   <code><img title="VSCode" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/vscode.png"></code>
 </p>
-<a href="https://github.com/najmulmyself">
+<a align="center" href="https://github.com/najmulmyself">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulmyself&theme=light&hide_langs_below=1" />
 </a>
