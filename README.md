@@ -7,7 +7,7 @@
 <h5 align="center">
   <code><a href="https://facebook.com/najmul.myself" target="blank" title="Facebook Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/facebook-32x32.png"> Facebook </a></code>
   <code><a href="https://instagram.com/najmulmyself" target="blank" title="Instagram Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.linkedin.com/in/najmul-huda-22a587158/" target="blank" title="LinkedIn Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/najmulmyself" target="blank" title="LinkedIn Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=najmulmyself&label=Profile%20views&color=0e75b6&style=flat" alt="najmulmyself" /> </p>
