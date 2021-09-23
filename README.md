@@ -39,6 +39,6 @@
 
 <p align="center">
   <a href="https://github.com/najmulmyself">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=najmulmyself&theme=prussian&hide_langsbelow=1&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=najmulmyself&theme=prussian&hide_langsbelow=1&layout=compact&langs_count=8"/>
 </a>
 </p>
