@@ -36,3 +36,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulmyself&theme=prussian&hide_langs_below=1" />
 </a>
 </p>
+<p align="center">
+  <a href="https://github.com/najmulmyself">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=najmulmyself)" />
+</a>
+</p>
