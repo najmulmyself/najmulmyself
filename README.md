@@ -21,7 +21,7 @@
   <code><img title="JavaScript" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/javascript.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/python.png"></code>
   <code><img title="PHP" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/php.svg"></code>
-  <code><img title="Dart" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/dart.png"></code>
+  <code><img title="CSS" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/css.svg"></code>
   <code><img title="Flutter" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/flutter.png"></code>
   <code><img title="Bootstrap" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/bootstrap-5.png"></code>
   <code><img title="SASS" height="25" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/sass.svg"></code>
