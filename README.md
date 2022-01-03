@@ -5,7 +5,7 @@
   PROGRAMMING || READING || TRAVELLING || WATCHING MOVIES/SERIES || GAMING
 </p>
 <h5 align="center">
-  <code><a href="https://facebook.com/najmul.myself" target="blank" title="Facebook Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/facebook-32x32.png"> Facebook </a></code>
+  <code><a href="https://facebook.com/najmul.self" target="blank" title="Facebook Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/facebook-32x32.png"> Facebook </a></code>
   <code><a href="https://instagram.com/najmulmyself" target="blank" title="Instagram Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.linkedin.com/in/najmulmyself" target="blank" title="LinkedIn Profile"><img width="22" src="https://github.com/najmulmyself/najmulmyself/blob/master/img/linkedin.svg"> LinkedIn</a></code>
 </h5>
