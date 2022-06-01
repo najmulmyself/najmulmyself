@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi there, I'm Najmul  <img src="https://github.com/najmulmyself/najmulmyself/blob/master/img/hello.gif" width="25px"></h2>
+<h2 align="center">Hi there, I'm Najmul  <img src="https://github.com/najmulmyself/najmulmyself/blob/master/img/hello.gif" width="24px"></h2>
 <p align="center">
   PROGRAMMING || READING || TRAVELLING || WATCHING MOVIES/SERIES || GAMING
 </p>
