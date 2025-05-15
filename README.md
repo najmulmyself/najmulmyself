@@ -1,6 +1,12 @@
 
 
-<h2 align="center">Hi there, I'm Najmul  <img src="https://github.com/najmulmyself/najmulmyself/blob/master/img/hello.gif" width="25"></h2>
+<p align="center">  </p>
+
+<h1 align="center">👋 Hi, I'm Md Najmul Huda</h1>
+
+<p align="center">
+  🚀 Flutter Developer • 📱 Mobile Engineer • 🛠️ Clean Architecture Enthusiast
+</p>
 <p align="center">
   PROGRAMMING || READING || TRAVELLING || WATCHING MOVIES/SERIES || GAMING
 </p>
@@ -13,7 +19,60 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=najmulmyself&label=Profile%20views&color=0e75b6&style=flat" alt="najmulmyself" /> </p>
 <hr>
 
-<p align="center">  </p>
+---
+
+### 🧠 About Me
+
+- 💻 I’m a **Flutter developer** with **3 years** of experience building cross-platform mobile apps.
+- 🛠️ I work with **BLoC**, **Provider**, and **Clean Architecture** for scalable, maintainable apps.
+- 🔐 I’ve built government-backed apps like **NBR VAT (EFDMS)** and commercial apps like **Stayverz** and **Skill Finesse**.
+- 📈 My personal project [Dream Kit 22](https://play.google.com/store/apps/details?id=com.sakib.dreamkit) has hit **100k+ downloads** and earns steady **monthly revenue** through ads.
+- 🔧 Obsessed with writing **testable code** (TDD + 80% coverage), building **robust features**, and shipping products that matter.
+
+---
+
+### 🔨 Tech Stack
+
+- 💙 **Flutter**, **Dart**
+- 📦 State Management: `BLoC`, `Provider`, `Riverpod`
+- 🏗️ Architecture: `Clean Architecture`, `MVC`, `get_it DI`
+- ☁️ Firebase Suite: Auth, Firestore, Crashlytics, Remote Config, FCM
+- 🧪 TDD, Unit Testing, Widget Testing
+- 💳 Payment: `bKash`, `Stripe`
+- 🛠 Tools: GitHub Actions, Firebase App Distribution, Play Store & App Store Deployment
+
+---
+
+### 📱 Highlighted Projects
+
+#### 💰 [Gold Kinen App](https://play.google.com/store/apps/details?id=com.goldkinen.android)
+> A secure platform for buying, selling, storing, and gifting gold in Bangladesh  
+> 🧱 Built with BLoC + Clean Architecture • TDD • bKash API • Remote Config • CI/CD
+
+#### 📊 [NBR VAT (EFDMS)]()
+> Govt VAT app for fiscal device integration  
+> 🧩 Provider • SQFLite Offline Sync • PDF generation • Fernet Encryption
+
+#### 🛎 [Stayverz](https://play.google.com/store/apps/details?id=com.stayverz.stayverz)
+> Hotel booking app with real-time reservation & payment integration
+
+#### 📚 [Skill Finesse LMS](https://apps.apple.com/us/app/skill-finesse/id6477940594)
+> iOS & Android LMS platform with push notifications and course tracking
+
+#### 🧢 [Dream Kit 22](https://play.google.com/store/apps/details?id=com.sakib.dreamkit)
+> 100k+ downloads, $120+/mo revenue • Ads • Offline • Firebase Notifications
+
+---
+
+### 📬 Contact
+
+- 📧 Email: najmul.myself@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/najmulmyself](https://linkedin.com/in/najmulmyself)  
+
+---
+
+<p align="center">⚡ Building products that work. Learning backend. Shipping clean code.</p>
+
 
 <h3 align="center">Languages & Frameworks & Tools</h3>
 
