@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Najmul Huda. You bring the idea. I'll ship it. iOS development and AI automation.">
+<rect width="1200" height="360" rx="24" fill="#FAFAF8"/>
+<path d="M38 40V320" stroke="#DDDDDA"/>
+<text x="80" y="67" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#171717">najmul<tspan fill="#343CEC">.</tspan></text>
+<text x="80" y="111" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3" fill="#686866">iOS DEVELOPMENT · AI AUTOMATION</text>
+<text x="78" y="189" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="-2" fill="#777773">You bring the <tspan fill="#171717">idea.</tspan></text>
+<text x="78" y="254" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="-2" fill="#171717">I’ll ship it.</text>
+<text x="81" y="312" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#343CEC">najmulmyself.com ↗</text>
+<rect x="907" y="82" width="160" height="160" rx="36" fill="#343CEC"/>
+<rect x="954" y="129" width="160" height="160" rx="36" fill="none" stroke="#343CEC" stroke-width="2"/>
+<path d="M957 163h55m-20-20 20 20-20 20" fill="none" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
